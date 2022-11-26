@@ -1,3 +1,14 @@
+# Project Secret Word
+
+Projeto sobre o jogo secret word, construindo componentes inteligentes e colocando os componentes de forma dinâmica.<br/>
+Curso de React da plataforma Udemy
+### Ferramentas usadas:
+
+* React
+* NodeJS
+* HTML
+* CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
